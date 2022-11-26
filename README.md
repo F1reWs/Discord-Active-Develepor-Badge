@@ -2,10 +2,6 @@
   <img alt="GiveMeBadge" src="https://i.alexflipnote.dev/6DKsc2i.png" width="750px">
 </p>
 
-<p align="center">
-  <img alt="GiveMeBadge" src="https://camo.githubusercontent.com/2396b5224a807ce6baf26214c3f219eb615ecba2923cfc3554740c7c889e9419/68747470733a2f2f692e696d6775722e636f6d2f7a366a7a7734432e706e67" width="750px">
-</p>
-
 # Requirements
 - Discord Bot (https://discord.com/developers/applications)
 - Discord server that you own
